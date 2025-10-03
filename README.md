@@ -12,6 +12,6 @@ gantt
     部长任务培训 : TT, after MA, 1d
     第一次线上会议 : FOM, after MA, 1d
     软件开发规范编写 : active, SDS, 2025-10-3, 1d
-    硬件开发规范编写 : active, HDS, 2025-10-3, 1d
+    硬件开发规范编写 : done, HDS, 2025-10-3, 1d
     部门职责要求编写 : active, DRR, 2025-10-3, 1d
     协同开发规范编写 : active, CDS, 2025-10-3, 1d
