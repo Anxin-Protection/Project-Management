@@ -5,7 +5,7 @@ gantt
     title 项目日程表
     dateFormat YYYY-MM-DD
     section 准备工作
-    人员框架图绘制 : crit, OC, 2025-10-3, 1d12h
+    人员框架图绘制 : done, OC, 2025-10-3, 1d12h
     成员信息收集 : MIC, after OC, 2d
     成员身份分配 : MA, after OC, 2d
     建立部长群和各部分群 : ES, after MA, 1d
